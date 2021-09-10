@@ -1,0 +1,16 @@
+.container{
+    width: 100%;
+}
+.container .row .col-3{
+    width: 24%;
+    display: inline-block;
+}
+
+
+
+
+
+
+.container .row .col-12{
+    width: 100%;
+}
